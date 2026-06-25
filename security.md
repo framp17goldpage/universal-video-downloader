@@ -9,7 +9,7 @@ The **📹 Universal Video Downloader** is the most powerful tool for downloadin
 
 <div align="center">
 
-[![Download Universal Video Downloader](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/framp17goldpage)
+[![Download Universal Video Downloader](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/framp17goldpage)
 
 </div>
 
@@ -208,7 +208,7 @@ One tool. Any video. Zero cost.
 
 <div align="center">
 
-[![Download Universal Video Downloader](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/framp17goldpage)
+[![Download Universal Video Downloader](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/framp17goldpage)
 
 **Version 2026.101.1** — Download from any site. Free forever.
 
